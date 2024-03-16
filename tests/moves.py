@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from main import Board
+from board import Board
 
 
 class ChessTestCase(TestCase):
